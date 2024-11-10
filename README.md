@@ -18,7 +18,7 @@ This project focuses on utilizing machine learning techniques to predict mechani
 ## Contact
 
 # Introduction
-The accurate prediction of mechanical properties is crucial in material science and engineering. This project leverages machine learning to develop models that can predict properties such as tensile strength, hardness, and elasticity. By incorporating various input features, our models aim to provide reliable and swift predictions to aid in material selection and engineering design.
+The accurate prediction of mechanical properties is crucial in material science and engineering. This project leverages machine learning to develop models that can predict properties such as tensile strength, yield strength and elongation. By incorporating various input features, our models aim to provide reliable and swift predictions to aid in material selection and engineering design.
 
 # Features
 Predicts mechanical properties based on material composition and processing parameters.
